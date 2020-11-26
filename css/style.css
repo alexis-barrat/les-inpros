@@ -1,0 +1,52 @@
+
+@import url("https://fonts.gstatic.com");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/logo.css");
+
+
+
+body {
+
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #fff;
+
+}
+
+
+h1, h2, h3{
+
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+
+a{
+
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+	transition: 2s ease;
+
+}
+
+	a:hover {
+	color: #19d3da;
+	transition: 1s ease;
+	font-weight: bold;
+
+}
+
+p{
+
+	text-align: justify;
+}
